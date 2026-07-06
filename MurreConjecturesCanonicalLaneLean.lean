@@ -1,0 +1,7 @@
+-- This module is the root of the MurreConjecturesCanonicalLaneLean Lean proof package.
+import MurreConjecturesCanonicalLaneLean.Basic
+import MurreConjecturesCanonicalLaneLean.SourcePackage
+import MurreConjecturesCanonicalLaneLean.SourceDependencies
+import MurreConjecturesCanonicalLaneLean.Formalization
+import MurreConjecturesCanonicalLaneLean.ReviewerBridge
+import MurreConjecturesCanonicalLaneLean.TheoremStatement
