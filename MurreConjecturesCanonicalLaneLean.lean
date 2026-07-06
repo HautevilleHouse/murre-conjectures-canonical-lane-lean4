@@ -5,3 +5,4 @@ import MurreConjecturesCanonicalLaneLean.SourceDependencies
 import MurreConjecturesCanonicalLaneLean.Formalization
 import MurreConjecturesCanonicalLaneLean.ReviewerBridge
 import MurreConjecturesCanonicalLaneLean.TheoremStatement
+import MurreConjecturesCanonicalLaneLean.MathlibStatement
